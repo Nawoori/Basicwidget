@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Basicwidget</string>
+
+    <!-- xml의 주석은 이렇게... -->
+    <string name="word_dog">개</string>
+    <string name="word_pig">돼지</string>
+    <string name="word_horse">말</string>
+
+    <string name="word_red">빨강</string>
+    <string name="word_green">녹색</string>
+    <string name="word_blue">파랑</string>
+</resources>
